@@ -26,7 +26,4 @@
  <a href="https://discord.gg/s2a68kGS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:higor.contato22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/higor-henrique-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-<! -- [Snake animation](https://github.com/higor-hsilva/higor-hsilva/blob/output/github-contribution-grid-snake.svg)-->
- 
 </div>
