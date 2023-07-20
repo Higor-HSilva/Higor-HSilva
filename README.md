@@ -1,7 +1,7 @@
 ### Olá meu nome é Higor Silva 
 
 - 🔭 Hoje trabalho com suporte à informação e dados 
-- 🌱 Estudando Python e C#
+- 🌱 Front-end developer
 
 ##
 
